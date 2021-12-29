@@ -1,0 +1,51 @@
+
+
+██████╗░░█████╗░░██████╗░██████╗░██╗░░░░░░░██╗░█████╗░██████╗░██████╗░  ░░░░░░  ░░███╗░░██████╗░██████╗░
+██╔══██╗██╔══██╗██╔════╝██╔════╝░██║░░██╗░░██║██╔══██╗██╔══██╗██╔══██╗  ░░░░░░  ░████║░░╚════██╗╚════██╗
+██████╔╝███████║╚█████╗░╚█████╗░░╚██╗████╗██╔╝██║░░██║██████╔╝██║░░██║  █████╗  ██╔██║░░░░███╔═╝░█████╔╝
+██╔═══╝░██╔══██║░╚═══██╗░╚═══██╗░░████╔═████║░██║░░██║██╔══██╗██║░░██║  ╚════╝  ╚═╝██║░░██╔══╝░░░╚═══██╗
+██║░░░░░██║░░██║██████╔╝██████╔╝░░╚██╔╝░╚██╔╝░╚█████╔╝██║░░██║██████╔╝  ░░░░░░  ███████╗███████╗██████╔╝
+╚═╝░░░░░╚═╝░░╚═╝╚═════╝░╚═════╝░░░░╚═╝░░░╚═╝░░░╚════╝░╚═╝░░╚═╝╚═════╝░  ░░░░░░  ╚══════╝╚══════╝╚═════╝░
+PASSWORD - 123
+
+█▀ █▀▀ ▀█▀ █░█ █▀█ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ █▀ █▀▀ ▀█▀ █░█ █▀█      
+▄█ ██▄ ░█░ █▄█ █▀▀ ░░ ░░ ░░ ░░ ░░ ▄█ ██▄ ░█░ █▄█ █▀▀      
+
+█▀█ █░░ ▄▀█ █▄█   ▄▀█ █▄░█ █▀▄   █▀▀ ▄▀█ █▀█ █▄░█
+█▀▀ █▄▄ █▀█ ░█░   █▀█ █░▀█ █▄▀   ██▄ █▀█ █▀▄ █░▀█
+
+█▀ █▀▀ ▀█▀ █░█ █▀█ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ █▀ █▀▀ ▀█▀ █░█ █▀█
+▄█ ██▄ ░█░ █▄█ █▀▀ ░░ ░░ ░░ ░░ ░░ ▄█ ██▄ ░█░ █▄█ █▀▀
+
+This is open source, so anyone can view it, fork it, or update it.
+I developed this bot originally for personal use. I decided to publish it here to help people and with the hope of making some money from donations. Over time, more and more people have opened questions, asked for help, and given suggestions. I try to respond to everyone, but lately it's been hard to keep up with the demand.
+I would like this bot to be free and open source. To make this possible, I'm creating some donation goals so that the bot can be collectively funded. Currently I manually update the goal bar daily, perhaps in the future I will automate this process somehow.
+
+
+█░█░█ ▄▀█ █▀█ █▄░█ █ █▄░█ █▀▀
+▀▄▀▄▀ █▀█ █▀▄ █░▀█ █ █░▀█ █▄█
+The game developers have spoken, and now the use of autoclickers and bots is officially banned. I am not responsible for any penalties incurred by anyone using a bot, use at your own risk.
+
+Why might some adjustments be necessary?
+The bot uses image recognition to make decisions about moving the mouse and clicking in the right places. To do this, it compares a sample image with a screenshot of your computer screen. This method can be inconsistent due to differences in screen resolution and how the game is displayed on your computer compared to mine (which I used the sample screenshots on). It is likely that the bot will not work 100% right away, and you may have to make some adjustments.
+
+
+█░█░█ █░█ ▄▀█ ▀█▀   ▄▀█ █▀█ █▀▀   ▀█▀ █░█ █▀▀   █▀█ █▀█ █▀█ █▄▄ █░░ █▀▀ █▀▄▀█ █▀ ▀█
+▀▄▀▄▀ █▀█ █▀█ ░█░   █▀█ █▀▄ ██▄   ░█░ █▀█ ██▄   █▀▀ █▀▄ █▄█ █▄█ █▄▄ ██▄ █░▀░█ ▄█ ░▄
+False negative - the bot should recognize an image, such as the submit to work button, but didn't recognize the image in the screenshot.
+
+False positives - the bot thinks it has recognized the image it's looking for in a place where it's not.
+
+Here's a list of some of the problems that can be caused by false positives and negative results.
+
+There are two possibilities to solve these problems: adjust the "threshold" parameter in the installer.ini file or replace the sample image in the "settings" folder with an image taken on your own computer:
+
+  █ █▄░█ █▀ ▀█▀ █▀█ █░█ █▀▀ ▀█▀ █ █▀█ █▄░█ █▀   █░█ █▀█ █░█░█   ▀█▀ █▀█   █░█ █▀ █▀▀ ▀
+  █ █░▀█ ▄█ ░█░ █▀▄ █▄█ █▄▄ ░█░ █ █▄█ █░▀█ ▄█   █▀█ █▄█ ▀▄▀▄▀   ░█░ █▄█   █▄█ ▄█ ██▄ ▄
+
+1. Download .zip
+2. Unpack .zip in any folder
+3. Run Setup as adminitrator, make sure that your antivirus is turned off.
+4. Launch Game
+5. Press "F5" in Programm
+6. Play and Earn
